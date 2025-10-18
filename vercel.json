@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/shop/:path*", "destination": "https://ahmad-fvnky-shop.vercel.app/:path*" },
+    { "source": "/botdiscord/:path*", "destination": "https://madcxvii-project.vercel.app/:path*" }
+  ]
+}
