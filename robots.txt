@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Sitemap: https://ahmad-trabas-pages.my.id/sitemap.xml
